@@ -3,6 +3,8 @@
 	"version": "0.3.3",
 	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
 	"main": "lib/index.js",
+	"repository": "izaakschroeder/yeoman-util",
+	"license": "CC0-1.0",
 	"dependencies": {
 		"open": "^0.0.5",
 		"package-merge": "^0.1.2",
