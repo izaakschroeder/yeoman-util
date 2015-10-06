@@ -1,6 +1,6 @@
 {
 	"name": "yeoman-util",
-	"version": "0.4.0",
+	"version": "0.4.1",
 	"author": "Izaak Schroeder <izaak.schroeder@gmail.com>",
 	"main": "lib/index.js",
 	"repository": "izaakschroeder/yeoman-util",
