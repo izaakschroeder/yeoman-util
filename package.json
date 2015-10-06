@@ -8,9 +8,7 @@
 	"dependencies": {
 		"open": "^0.0.5",
 		"package-merge": "^0.1.2",
-		"lodash": "^3.9.3"
-	},
-	"peerDependencies": {
-		"yeoman-generator": "^0.20.1"
+		"lodash": "^3.9.3",
+		"yeoman-generator": "^0.20.3"
 	}
 }
