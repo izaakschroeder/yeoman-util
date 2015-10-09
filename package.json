@@ -6,9 +6,9 @@
 	"repository": "izaakschroeder/yeoman-util",
 	"license": "CC0-1.0",
 	"dependencies": {
-		"open": "^0.0.5",
 		"package-merge": "^0.1.2",
 		"lodash": "^3.9.3",
-		"yeoman-generator": "^0.20.3"
+		"yeoman-generator": "^0.20.3",
+		"option-multiplexer": "^0.1.0"
 	}
 }
